@@ -7,6 +7,7 @@ cd ~/Downloads
 chmod +x setup.sh
 ./setup.sh
 ```
+That's it, and now your terminal is good as new!
 
 ## Demo:
 ![Demo](demo.gif)
