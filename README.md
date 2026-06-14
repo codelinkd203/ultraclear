@@ -1,7 +1,12 @@
-# macos-clear
+# UltraClear
 Make the MacOS clear command actually nice... do a full clear with absolutely no scrollback!
 
-Simply download and open [setup.sh](setup.sh) to set it up... then you're all set!
+Simply download [setup.sh](setup.sh), open Terminal, and type in:
+```shell
+cd ~/Downloads
+chmod +x setup.sh
+./setup.sh
+```
 
 ## Demo:
 ![Demo](demo.gif)
