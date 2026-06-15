@@ -37,6 +37,7 @@ Or download directly:
 Use your terminal normally:
 
 Enter `clear`, or even use `cls` (a Windows-style command), which is also added by UltraClear.
+You may also run `rclear` to use the default clear from MacOS.
 
 Simple as that.
 
