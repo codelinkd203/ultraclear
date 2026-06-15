@@ -36,6 +36,10 @@ clear() {
 cls() {
   clear
 }
+
+rclear() {
+   command clear
+}
 # --UltraClear END
 
 EOF
